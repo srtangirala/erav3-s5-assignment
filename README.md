@@ -1,5 +1,7 @@
 # Machine Learning Model Training and Testing
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 This repository contains a machine learning pipeline for training and testing a model. The project consists of three main Python files: `train.py`, `model.py`, and `test_model.py`.
 
 ## Project Structure
